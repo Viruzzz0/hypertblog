@@ -8,4 +8,6 @@ body
 .box
 {
     text-align: left;
+    border-width: 10px;
+    border-color: lightblue;
 }
