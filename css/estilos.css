@@ -5,3 +5,7 @@ body
     font-family: 'Roboto Mono', monospace;
     background-color: black;
 }
+.box
+{
+    text-align: left;
+}
