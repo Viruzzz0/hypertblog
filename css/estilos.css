@@ -1,13 +1,28 @@
 body
 {
-    color: slateblue;
+    color: #1bd602;
     text-align: center;
     font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
     background-color: black;
+    margin: 0;
+    padding: 0;
 }
 .box
 {
     text-align: left;
-    border-width: 10px;
-    border-color: lightblue;
+
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
